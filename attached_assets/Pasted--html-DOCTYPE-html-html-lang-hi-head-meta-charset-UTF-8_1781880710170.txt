@@ -1,0 +1,61 @@
+```html
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yash Laminations - Official Website</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; margin: 0; padding: 0; }
+        .header { background-color: #b91c1c; color: white; padding: 2rem; text-align: center; }
+        .container { max-width: 900px; margin: 20px auto; padding: 20px; border: 1px solid #ccc; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        h1, h2 { color: #b91c1c; }
+        .contact-info { background: #f9f9f9; padding: 15px; border-left: 5px solid #b91c1c; }
+        .deals { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 20px; }
+        @media (max-width: 600px) { .deals { grid-template-columns: 1fr; } }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <h1>YASH LAMINATIONS</h1>
+    <p>ALL LAMINATION MATERIALS</p>
+</div>
+
+<div class="container">
+    <h2>स्वागत है!</h2>
+    <p>हम प्रिंटिंग और पैकेजिंग उद्योग के लिए उच्च गुणवत्ता वाली सामग्री के प्रमुख आपूर्तिकर्ता हैं।</p>
+
+    <div class="contact-info">
+        <h3>संपर्क विवरण:</h3>
+        <p><strong>प्रोप्राइटर:</strong> राजेश झा / तनुज</p>
+        <p><strong>मोबाइल:</strong> +91-9811741713 | +91-8506025713</p>
+        <p><strong>पता:</strong> दुकान नं. 3, प्रॉपर्टी नं. 1492, UG फ्लोर, नियर केनरा बैंक, मेन रोड चांदनी चौक, दिल्ली-110006</p>
+        <p><strong>ईमेल:</strong> jharajesh00@gmail.com</p>
+    </div>
+
+    <h2>हम क्या प्रदान करते हैं (Deals In):</h2>
+    <div class="deals">
+        <ul>
+            <li>Lamination Films</li>
+            <li>Hot Melt Film & Glue</li>
+            <li>Acrylic Pasting Film</li>
+            <li>Acrylic Sheets</li>
+        </ul>
+        <ul>
+            <li>U.V. Chemicals</li>
+            <li>Inner Card Sheet</li>
+            <li>Gum Cards</li>
+            <li>Mounting Tapes etc.</li>
+        </ul>
+    </div>
+</div>
+
+<footer style="text-align: center; padding: 20px; font-size: 0.8rem;">
+    &copy; 2026 Yash Laminations. सभी अधिकार सुरक्षित।
+</footer>
+
+</body>
+</html>
+
+```

@@ -1,0 +1,26 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "gyuXeUUaOCkhtQyDpGCsE"
+uri = "file://artifacts/yash-laminations/public/hero.png"
+type = "image"
+title = "interior of printing materials trade shop"
+
+[[generated]]
+id = "fL9LwoqL84f9xatN_G-HK"
+uri = "file://artifacts/yash-laminations/public/film-rolls.png"
+type = "image"
+title = "lamination film rolls"
+
+[[generated]]
+id = "v4C5uxMpexesaw-CdazDU"
+uri = "file://artifacts/yash-laminations/public/acrylic-sheets.png"
+type = "image"
+title = "acrylic sheets"
+
+[[generated]]
+id = "donkyWc5nrMa-oS7I6DNx"
+uri = "file://artifacts/yash-laminations/public/chemicals.png"
+type = "image"
+title = "industrial chemicals"
